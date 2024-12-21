@@ -84,5 +84,3 @@ Example:
     Example: `Under-7`
 
 After providing these inputs, the system will use five different machine learning models (Decision Tree, Random Forest, Perceptron, Logistic Regression, and Neural Network) to predict the student's class level (H-High, M-Medium, or L-Low).
-
-Would you like me to help you try out a specific set of inputs?
